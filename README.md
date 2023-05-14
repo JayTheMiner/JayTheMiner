@@ -1,3 +1,15 @@
+
+<h2>
+  Introduce
+</h2>
+<h4>
+  Develop Trading-Algorithm for Stock & Digital Assets.
+</h4>
+
+
+<h2>
+  Stacks for Now
+</h2>
 <h3>Language</h3>
 <div align=center> 
   <!-- Python  --><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>
