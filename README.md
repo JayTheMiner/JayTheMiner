@@ -40,6 +40,8 @@
   <!-- NumPy  --><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=ffffff"/>
   <!-- QT Framework  --><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=ffffff"/>
   <!-- FastAPI  --><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=ffffff"/>
+  <!-- Dask  --><img src="https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge&logo=Dask&logoColor=ffffff"/>
+
 </div>
 <h5>Database</h5>
 <div align=center>
