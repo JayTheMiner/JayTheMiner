@@ -48,9 +48,10 @@
   <!-- MySQL --><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/>
   <!-- Maria DB  --><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=ffffff"/>
   <!-- Mongo DB  --><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff"/>
+  <!-- PostgreSQL --><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff"/>
  </div>
  
-<h5>Preferred</h5>
+<h5>Environment</h5>
 <div align=center>
   <!-- .env  --><img src="https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=.ENV&logoColor=ffffff"/>
   <!-- Toml  --><img src="https://img.shields.io/badge/TOML-9C4121?style=for-the-badge&logo=TOML&logoColor=ffffff"/>
